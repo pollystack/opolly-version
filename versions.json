@@ -1,0 +1,32 @@
+{
+  "file_version": 1,
+  "darwin": {
+    "arm": {
+      "build": {
+        "version": "0.0.1",
+        "download_url": "https://pollystack/download/darwin/arm/opolly_0.0.1.dmg",
+        "description": "This is a test build",
+        "created_at": "2012-05-29T19:30:03.283Z"
+      },
+      "arm64": {
+        "build": {
+          "version": "0.0.1",
+          "download_url": "https://pollystack/download/darwin/arm64/opolly_0.0.1.dmg",
+          "description": "This is a test build",
+          "created_at": "2012-05-29T19:30:03.283Z"
+        }
+      },
+      "amd64": {
+        "build": {
+          "version": "0.0.1",
+          "download_url": "https://pollystack/download/darwin/amd64/opolly_0.0.1.dmg",
+          "description": "This is a test build",
+          "created_at": "2012-05-29T19:30:03.283Z"
+        }
+      }
+    }
+  },
+  "created_at": "2012-05-29T19:30:03.283Z",
+  "updated_at": "2012-05-29T19:30:03.283Z",
+  "copyright": "© 2024 Polly Stack"
+}
